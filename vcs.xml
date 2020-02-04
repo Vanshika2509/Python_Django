@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/ashuti/Python_Django.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/abcvivek/BookMyShow-Clone.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\vansh\PycharmProjects" />
